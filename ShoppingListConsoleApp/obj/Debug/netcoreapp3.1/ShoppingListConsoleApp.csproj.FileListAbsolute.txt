@@ -1,0 +1,14 @@
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\bin\Debug\netcoreapp3.1\ShoppingListConsoleApp.exe
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\bin\Debug\netcoreapp3.1\ShoppingListConsoleApp.deps.json
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\bin\Debug\netcoreapp3.1\ShoppingListConsoleApp.runtimeconfig.json
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\bin\Debug\netcoreapp3.1\ShoppingListConsoleApp.runtimeconfig.dev.json
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\bin\Debug\netcoreapp3.1\ShoppingListConsoleApp.dll
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\bin\Debug\netcoreapp3.1\ShoppingListConsoleApp.pdb
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\obj\Debug\netcoreapp3.1\ShoppingListConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\obj\Debug\netcoreapp3.1\ShoppingListConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\obj\Debug\netcoreapp3.1\ShoppingListConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\obj\Debug\netcoreapp3.1\ShoppingListConsoleApp.AssemblyInfo.cs
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\obj\Debug\netcoreapp3.1\ShoppingListConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\obj\Debug\netcoreapp3.1\ShoppingListConsoleApp.dll
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\obj\Debug\netcoreapp3.1\ShoppingListConsoleApp.pdb
+C:\Users\Harri\source\repos\ShoppingListConsoleApp\ShoppingListConsoleApp\obj\Debug\netcoreapp3.1\ShoppingListConsoleApp.genruntimeconfig.cache
